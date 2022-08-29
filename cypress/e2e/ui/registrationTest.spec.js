@@ -1,4 +1,4 @@
-import registrationPage from "../pages/registrationPage"
+import registrationPage from "../../pages/registrationPage"
 describe('Simple Form Demo', () => {
     beforeEach(() => {
         cy.visit('https://demo.nopcommerce.com/register?returnUrl=%2F')

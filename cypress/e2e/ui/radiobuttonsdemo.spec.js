@@ -1,4 +1,4 @@
-import Selectors, {loopSelector} from "../pages/Selectors";
+import Selectors, {loopSelector} from "../../pages/Selectors";
 
 let selectors = new Selectors()
 describe('Simple Form Demo', () => {

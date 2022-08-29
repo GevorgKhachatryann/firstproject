@@ -1,4 +1,4 @@
-import Selectors from "../pages/Selectors";
+import Selectors from "../../pages/Selectors";
 
 let selectors = new Selectors()
 
